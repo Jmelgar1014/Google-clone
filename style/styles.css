@@ -23,7 +23,6 @@ nav {
 	font-family: 'Roboto', sans-serif;
 	font-weight: normal;
 	font-size: 14px;
-	color: #222;
 }
 
 .left-side > ul {
@@ -34,6 +33,7 @@ nav {
 .left-content > li {
 	padding: 10px;
 	margin: 0;
+	color: #222;
 }
 .right-side > ul {
 	display: flex;
@@ -43,6 +43,7 @@ nav {
 
 .right-content > li {
 	padding: 10px;
+	color: #222;
 }
 
 .search {
@@ -162,11 +163,11 @@ footer > ul {
 	margin-top: 10px;
 	font-family: Roboto;
 	font-size: 14px;
-	color: #70757a;
 }
 
 .left-side > li {
 	margin-right: 30px;
+	color: #70757a;
 }
 
 footer > .right-side {
@@ -176,6 +177,7 @@ footer > .right-side {
 .right-side > li {
 	margin-left: 15px;
 	margin-right: 15px;
+	color: #70757a;
 }
 
 footer > a:hover {
